@@ -7,7 +7,6 @@ class TestComponent extends React.Component<any> {
   }
 
   public render() {
-    console.log(this.props.TestStore.getData);
     return <div>Test component</div>;
   }
 }

@@ -21,6 +21,6 @@ This project user [ts-lint](https://palantir.github.io/tslint/), [sass-lint](htt
 
 ## Other 
 
-Also this project uses React Router v4+ and SCSS
+Also this project uses React Router v5+ and SCSS
 
 ### Created by Vlad Bilenko. Easy developing)

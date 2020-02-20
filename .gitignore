@@ -4,7 +4,8 @@
 /node_modules
 
 #idea
-./idea
+.idea
+*.iml
 
 # testing
 /coverage
