@@ -2,8 +2,8 @@ import { Provider } from 'mobx-react';
 import * as React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import './App.css';
-import Routes from './routes';
-import stores from './stores';
+import stores from '../../stores';
+import Routes from '../routes';
 
 class App extends React.Component {
   public render() {

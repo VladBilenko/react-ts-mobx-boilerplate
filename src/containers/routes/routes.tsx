@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Redirect, Route, Switch } from 'react-router';
-import { TestComponent } from '../components';
+import TestComponent from '../../components/component-example';
 
 const Routes = () => {
   return (
